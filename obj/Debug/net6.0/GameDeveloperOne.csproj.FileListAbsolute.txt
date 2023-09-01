@@ -1,0 +1,15 @@
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/bin/Debug/net6.0/GameDeveloperOne
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/bin/Debug/net6.0/GameDeveloperOne.deps.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/bin/Debug/net6.0/GameDeveloperOne.runtimeconfig.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/bin/Debug/net6.0/GameDeveloperOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/bin/Debug/net6.0/GameDeveloperOne.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.csproj.AssemblyReference.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.AssemblyInfoInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.AssemblyInfo.cs
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.csproj.CoreCompileInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/refint/GameDeveloperOne.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/GameDeveloperOne.genruntimeconfig.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/GameDeveloperOne/obj/Debug/net6.0/ref/GameDeveloperOne.dll
